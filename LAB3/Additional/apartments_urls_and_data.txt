@@ -1,0 +1,2211 @@
+https://999.md/ro/84311640
+{
+    "Titlu": "Apartament cu 1 camera, 51 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "51   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "58 500   EUR"
+}
+
+
+https://999.md/ro/79562012
+{
+    "Titlu": "Apartament cu 1 camera, 48 m2, Ciocana, Chisinau",
+    "Balcon": "2",
+    "Suprafata totala": "48   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "2",
+    "Nivelul": "3",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Inaltimea tavanului": "275   cm",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Sistem \"casa inteligenta\"": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "43 200   EUR"
+}
+
+
+https://999.md/ro/75320381
+{
+    "Titlu": "Apartament cu 1 camera, 44 m2, Durlesti, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "44   m2",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Tipul cladirii": "Monolit",
+    "Loc de parcat": "Garaj",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "33 000   EUR"
+}
+
+
+https://999.md/ro/75952357
+{
+    "Titlu": "Apartament cu 1 camera, 44 m2, Centru, Ialoveni",
+    "Balcon": "1",
+    "Suprafata totala": "44   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "5",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "7",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "36 100   EUR"
+}
+
+
+https://999.md/ro/80354925
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Telecentru, Chisinau",
+    "Suprafata totala": "52   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "3",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "13",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "42 900   EUR"
+}
+
+
+https://999.md/ro/81504426
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Centru, Codru, Chisinau mun.",
+    "Suprafata totala": "52   m2",
+    "Nivelul": "5",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Categorie": "Apartamente",
+    "Pret": "49 400   EUR"
+}
+
+
+https://999.md/ro/83924919
+{
+    "Titlu": "Apartament cu 1 camera, 53 m2, Ciocana, Chisinau",
+    "Balcon": "2",
+    "Suprafata totala": "53   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "7",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "15",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Dezvoltator": "Exfactor-grup",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri panoramice": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "63 500   EUR"
+}
+
+
+https://999.md/ro/82972082
+{
+    "Titlu": "Apartament cu 1 camera, 42 m2, Durlesti, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "42   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Tipul cladirii": "Beton",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "15   m2",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Suprafata bucatariei": "11   m2",
+    "Inaltimea tavanului": "280   cm",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "33 730   EUR"
+}
+
+
+https://999.md/ro/83512020
+{
+    "Titlu": "Apartament cu 1 camera, 54 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "54   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "11",
+    "Numar de nivele": "11",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Dezvoltator": "Exfactor-grup",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Geamuri panoramice": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "64 680   EUR"
+}
+
+
+https://999.md/ro/81185811
+{
+    "Titlu": "Apartament cu 1 camera, 55 m2, Telecentru, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "55   m2",
+    "Starea apartamentului": "Constructie nefinisata",
+    "Bloc sanitar": "1",
+    "Nivelul": "9",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "28   m2",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Suprafata bucatariei": "15   m2",
+    "Inaltimea tavanului": "280   cm",
+    "Gata de intrare": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Geamuri panoramice": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "49 600   EUR"
+}
+
+
+https://999.md/ro/80320382
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "Constructie nefinisata",
+    "Bloc sanitar": "1",
+    "Nivelul": "3",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "17   m2",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Suprafata bucatariei": "13   m2",
+    "Inaltimea tavanului": "280   cm",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "53 450   EUR"
+}
+
+
+https://999.md/ro/84144419
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "52   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Dezvoltator": "Urbanconstruct-tt",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Geamuri panoramice": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Sistem \"casa inteligenta\"": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "119 900   EUR"
+}
+
+
+https://999.md/ro/82988726
+{
+    "Titlu": "Apartament cu 1 camera, 38 m2, Centru, Stauceni, Chisinau mun.",
+    "Suprafata totala": "38   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "13",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "31 500   EUR"
+}
+
+
+https://999.md/ro/82055830
+{
+    "Titlu": "Apartament cu 1 camera, 66 m2, Centru, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "66   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "14",
+    "Numar de nivele": "16",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "66   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Categorie": "Apartamente",
+    "Pret": "99 000   EUR"
+}
+
+
+https://999.md/ro/84055930
+{
+    "Titlu": "Apartament cu 1 camera, 48 m2, Telecentru, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "48   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "9",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "75 000   EUR"
+}
+
+
+https://999.md/ro/80162547
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Ciocana, Chisinau",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "50 500   EUR"
+}
+
+
+https://999.md/ro/52192915
+{
+    "Titlu": "Apartament cu 1 camera, 43 m2, Durlesti, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "43   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "3",
+    "Tipul cladirii": "Cotilet",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "27 625   EUR"
+}
+
+
+https://999.md/ro/82849949
+{
+    "Titlu": "Apartament cu 1 camera, 51 m2, Centru, Calarasi, Calarasi",
+    "Balcon": "1",
+    "Suprafata totala": "51   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Numar de nivele": "6",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Geamuri panoramice": "Prezent",
+    "Usa blindata": "Prezent",
+    "Sistem \"casa inteligenta\"": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "30 520   EUR"
+}
+
+
+https://999.md/ro/83590259
+{
+    "Titlu": "Apartament cu 1 camera, 54 m2, Durlesti, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "54   m2",
+    "Starea apartamentului": "La gri",
+    "Bloc sanitar": "2",
+    "Nivelul": "4",
+    "Tipul cladirii": "Cotilet",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Suprafata bucatariei": "12   m2",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "35 000   EUR"
+}
+
+
+https://999.md/ro/83711573
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Centru, Codru, Chisinau mun.",
+    "Balcon": "1",
+    "Suprafata totala": "52   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "5",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "11",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "49 400   EUR"
+}
+
+
+https://999.md/ro/83783702
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "52   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "15",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "17",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "77 900   EUR"
+}
+
+
+https://999.md/ro/84050600
+{
+    "Titlu": "Apartament cu 1 camera, 24 m2, Rascani, Chisinau",
+    "Balcon": "Nu",
+    "Suprafata totala": "24   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "5",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "24 900   EUR"
+}
+
+
+https://999.md/ro/83049639
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "5",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "52 900   EUR"
+}
+
+
+https://999.md/ro/83088564
+{
+    "Titlu": "Apartament cu 1 camera, 34 m2, Botanica, Chisinau",
+    "Suprafata totala": "34   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "7",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "34 500   EUR"
+}
+
+
+https://999.md/ro/82695345
+{
+    "Titlu": "Apartament cu 1 camera, 54 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "54   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "2",
+    "Nivelul": "10",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "14",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "57 900   EUR"
+}
+
+
+https://999.md/ro/83269237
+{
+    "Titlu": "Apartament cu 1 camera, 48 m2, Ciocana, Chisinau",
+    "Suprafata totala": "48   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "7",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "72 900   EUR"
+}
+
+
+https://999.md/ro/82632782
+{
+    "Titlu": "Apartament cu 1 camera, 35 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "35   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "2",
+    "Nivelul": "9",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "Ms (serie  moldoveneasca)",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "34 900   EUR"
+}
+
+
+https://999.md/ro/83968329
+{
+    "Titlu": "Apartament cu 1 camera, 35 m2, Rascani, Chisinau",
+    "Suprafata totala": "35   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "6",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "37 000   EUR"
+}
+
+
+https://999.md/ro/83391839
+{
+    "Titlu": "Apartament cu 1 camera, 31 m2, Rascani, Chisinau",
+    "Suprafata totala": "31   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "5",
+    "Loc de parcat": "Garaj",
+    "Numar de nivele": "6",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "26 000   EUR"
+}
+
+
+https://999.md/ro/79562870
+{
+    "Titlu": "Apartament cu 1 camera, 48 m2, Ciocana, Chisinau",
+    "Balcon": "2",
+    "Suprafata totala": "48   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "2",
+    "Nivelul": "3",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Inaltimea tavanului": "275   cm",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Sistem \"casa inteligenta\"": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "43 200   EUR"
+}
+
+
+https://999.md/ro/84000366
+{
+    "Titlu": "Apartament cu 1 camera, 45 m2, Buiucani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "45   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "7",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "38 900   EUR"
+}
+
+
+https://999.md/ro/83123080
+{
+    "Titlu": "Apartament cu 1 camera, 45 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "45   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "45   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "41 900   EUR"
+}
+
+
+https://999.md/ro/84158577
+{
+    "Titlu": "Apartament cu 1 camera, 51 m2, Centru, Chisinau",
+    "Balcon": "Nu",
+    "Suprafata totala": "51   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "3",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "16",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "92 500   EUR"
+}
+
+
+https://999.md/ro/84346353
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "9",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "14",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "65 900   EUR"
+}
+
+
+https://999.md/ro/82849210
+{
+    "Titlu": "Apartament cu 1 camera, 35 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "35   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "27 500   EUR"
+}
+
+
+https://999.md/ro/68608634
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "52 500   EUR"
+}
+
+
+https://999.md/ro/82943654
+{
+    "Titlu": "Apartament cu 1 camera, 40 m2, Centru, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "40   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "8",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "96 000   EUR"
+}
+
+
+https://999.md/ro/82447106
+{
+    "Titlu": "Apartament cu 1 camera, 49 m2, Buiucani, Chisinau",
+    "Suprafata totala": "49   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "3",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "78 900   EUR"
+}
+
+
+https://999.md/ro/82713529
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Centru, Dumbrava, Chisinau mun.",
+    "Balcon": "1",
+    "Suprafata totala": "52   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "7",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "47 000   EUR"
+}
+
+
+https://999.md/ro/84349894
+{
+    "Titlu": "Apartament cu 1 camera, 25 m2, Buiucani, Chisinau",
+    "Suprafata totala": "25   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "1",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "2",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "35 000   EUR"
+}
+
+
+https://999.md/ro/82324045
+{
+    "Titlu": "Apartament cu 1 camera, 63 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "63   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "2",
+    "Nivelul": "1",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "120 000   EUR"
+}
+
+
+https://999.md/ro/82975686
+{
+    "Titlu": "Apartament cu 1 camera, 47 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "47   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "Ms (serie  moldoveneasca)",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "54 000   EUR"
+}
+
+
+https://999.md/ro/83451535
+{
+    "Titlu": "Apartament cu 1 camera, 16 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "16   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "10 800   EUR"
+}
+
+
+https://999.md/ro/82730319
+{
+    "Titlu": "Apartament cu 1 camera, 44 m2, Centru, Dumbrava, Chisinau mun.",
+    "Balcon": "1",
+    "Suprafata totala": "44   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "7",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "39 600   EUR"
+}
+
+
+https://999.md/ro/84300533
+{
+    "Titlu": "Apartament cu 1 camera, 46 m2, Buiucani, Chisinau",
+    "Suprafata totala": "46   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "5",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Interfon": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "74 999   EUR"
+}
+
+
+https://999.md/ro/83482290
+{
+    "Titlu": "Apartament cu 1 camera, 46 m2, Rascani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "46   m2",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Numar de nivele": "15",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "46   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "41 400   EUR"
+}
+
+
+https://999.md/ro/80264483
+{
+    "Titlu": "Apartament cu 1 camera, 37 m2, Telecentru, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "37   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Tipul cladirii": "Cotilet",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "6",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "37   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "Individuala",
+    "Incalzire autonoma": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "33 900   EUR"
+}
+
+
+https://999.md/ro/82853744
+{
+    "Titlu": "Apartament cu 1 camera, 38 m2, Botanica, Chisinau",
+    "Suprafata totala": "38   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "38   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "65 900   EUR"
+}
+
+
+https://999.md/ro/84351562
+{
+    "Titlu": "Apartament cu 1 camera, 34 m2, Rascani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "34   m2",
+    "Bloc sanitar": "2",
+    "Nivelul": "1",
+    "Tipul cladirii": "Cotilet",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Persoana fizica",
+    "Fond locativ": "Secundar",
+    "Categorie": "Apartamente",
+    "Pret": "34 500   EUR"
+}
+
+
+https://999.md/ro/83829987
+{
+    "Titlu": "Apartament cu 1 camera, 53 m2, Ciocana, Chisinau",
+    "Balcon": "2",
+    "Suprafata totala": "53   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "15",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "87 900   EUR"
+}
+
+
+https://999.md/ro/83509994
+{
+    "Titlu": "Apartament cu 1 camera, 46 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "46   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "105 000   EUR"
+}
+
+
+https://999.md/ro/77588957
+{
+    "Titlu": "Apartament cu 1 camera, 48 m2, Centru, Orhei",
+    "Suprafata totala": "48   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "1",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "37 440   EUR"
+}
+
+
+https://999.md/ro/83621965
+{
+    "Titlu": "Apartament cu 1 camera, 53 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "53   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "7",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "53   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "95 000   EUR"
+}
+
+
+https://999.md/ro/82220339
+{
+    "Titlu": "Apartament cu 1 camera, 44 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "44   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "16",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "51 500   EUR"
+}
+
+
+https://999.md/ro/83270313
+{
+    "Titlu": "Apartament cu 1 camera, 55 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "55   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "59 900   EUR"
+}
+
+
+https://999.md/ro/84008230
+{
+    "Titlu": "Apartament cu 1 camera, 54 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "54   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Numar de nivele": "14",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "54   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "87 900   EUR"
+}
+
+
+https://999.md/ro/83796495
+{
+    "Titlu": "Apartament cu 1 camera, 39 m2, Buiucani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "39   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Tipul cladirii": "Cotilet",
+    "Numar de nivele": "7",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Persoana fizica",
+    "Dezvoltator": "Astercon",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Geamuri panoramice": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "37 100   EUR"
+}
+
+
+https://999.md/ro/83275475
+{
+    "Titlu": "Apartament cu 1 camera, 49 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "49   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "9",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "68 900   EUR"
+}
+
+
+https://999.md/ro/83972298
+{
+    "Titlu": "Apartament cu 1 camera, 42 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "42   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Tipul cladirii": "Cotilet",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "6",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "42   m2",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "33 900   EUR"
+}
+
+
+https://999.md/ro/83421496
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Ciocana, Chisinau",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "75 500   EUR"
+}
+
+
+https://999.md/ro/83844681
+{
+    "Titlu": "Apartament cu 1 camera, 50 m2, Rascani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "50   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "12",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "81 900   EUR"
+}
+
+
+https://999.md/ro/83915883
+{
+    "Titlu": "Apartament cu 1 camera, 56 m2, Centru, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "56   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "16",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "56   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Categorie": "Apartamente",
+    "Pret": "88 900   EUR"
+}
+
+
+https://999.md/ro/84339825
+{
+    "Titlu": "Apartament cu 1 camera, 35 m2, Ciocana, Chisinau",
+    "Suprafata totala": "35   m2",
+    "Starea apartamentului": "Fara reparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Tipul cladirii": "Panouri",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Secundar",
+    "Planul": "Ms (serie  moldoveneasca)",
+    "Suprafata bucatariei": "9   m2",
+    "Inaltimea tavanului": "280   cm",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "25 999   EUR"
+}
+
+
+https://999.md/ro/83482410
+{
+    "Titlu": "Apartament cu 1 camera, 47 m2, Centru, Chisinau",
+    "Suprafata totala": "47   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "1",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "47   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "62 500   EUR"
+}
+
+
+https://999.md/ro/84091535
+{
+    "Titlu": "Apartament cu 1 camera, 47 m2, Rascani, Chisinau",
+    "Balcon": "Nu",
+    "Suprafata totala": "47   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "2",
+    "Tipul cladirii": "Cotilet",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "2",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Secundar",
+    "Planul": "Individuala",
+    "Suprafata bucatariei": "15   m2",
+    "Inaltimea tavanului": "280   cm",
+    "Gata de intrare": "Prezent",
+    "Decomandat": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "40 000   EUR"
+}
+
+
+https://999.md/ro/83741309
+{
+    "Titlu": "Apartament cu 1 camera, 38 m2, Posta Veche, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "38   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "7",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "53 900   EUR"
+}
+
+
+https://999.md/ro/82429622
+{
+    "Titlu": "Apartament cu 1 camera, 54 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "54   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "12",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "57 900   EUR"
+}
+
+
+https://999.md/ro/81638107
+{
+    "Titlu": "Apartament cu 1 camera, 42 m2, Centru, Stauceni, Chisinau mun.",
+    "Suprafata totala": "42   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "12",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "14",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "42   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Geamuri termopan": "Prezent",
+    "Parchet": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "30 500   EUR"
+}
+
+
+https://999.md/ro/69314867
+{
+    "Titlu": "Botanica apartament (21 m2) comoditati proprii, cu posibilitatea constructiei anexei ( + 20 m2 ) !!!",
+    "Balcon": "1",
+    "Suprafata totala": "21   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "1",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "5",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "16   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "Individuala",
+    "Suprafata bucatariei": "8   m2",
+    "Inaltimea tavanului": "250   cm",
+    "Gata de intrare": "Prezent",
+    "Anexa": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "22 000   EUR"
+}
+
+
+https://999.md/ro/70378980
+{
+    "Titlu": "Tsentr goroda  str.Ismail 47 Centru, UNIC",
+    "Balcon": "Nu",
+    "Suprafata totala": "18   m2",
+    "Starea apartamentului": "Are nevoie de reparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "1",
+    "Tipul cladirii": "Combinat",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "1",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "16   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "Individuala",
+    "Inaltimea tavanului": "250   cm",
+    "Gata de intrare": "Prezent",
+    "Anexa": "Prezent",
+    "Decomandat": "Prezent",
+    "Usa blindata": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "40 000   EUR"
+}
+
+
+https://999.md/ro/83934100
+{
+    "Titlu": "Apartament cu 1 camera, 53 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "53   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "2",
+    "Nivelul": "1",
+    "Tipul cladirii": "Cotilet",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Dezvoltator": "Reconscivil",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Gata de intrare": "Prezent",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "69 500   EUR"
+}
+
+
+https://999.md/ro/82999472
+{
+    "Titlu": "Apartament cu 1 camera, 22 m2, Rascani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "22   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "7",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "15 900   EUR"
+}
+
+
+https://999.md/ro/81980262
+{
+    "Titlu": "Apartament cu 1 camera, 53 m2, Durlesti, Chisinau",
+    "Balcon": "Nu",
+    "Suprafata totala": "53   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "1",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "45 500   EUR"
+}
+
+
+https://999.md/ro/79562291
+{
+    "Titlu": "Apartament cu 1 camera, 48 m2, Ciocana, Chisinau",
+    "Balcon": "2",
+    "Suprafata totala": "48   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "2",
+    "Nivelul": "3",
+    "Tipul cladirii": "Caramida",
+    "Loc de parcat": "Subterana",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Dezvoltator imobiliar",
+    "Fond locativ": "Constructii noi",
+    "Inaltimea tavanului": "275   cm",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Linie telefonica": "Prezent",
+    "Sistem \"casa inteligenta\"": "Prezent",
+    "Interfon": "Prezent",
+    "Internet": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "43 200   EUR"
+}
+
+
+https://999.md/ro/83304707
+{
+    "Titlu": "Apartament cu 1 camera, 33 m2, Botanica, Chisinau",
+    "Balcon": "2",
+    "Suprafata totala": "33   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "9",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "10",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "143",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "33 900   EUR"
+}
+
+
+https://999.md/ro/84248805
+{
+    "Titlu": "Apartament cu 1 camera, 43 m2, Buiucani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "43   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "6",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "6",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Mobilat": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "42 900   EUR"
+}
+
+
+https://999.md/ro/83408050
+{
+    "Titlu": "Apartament cu 1 camera, 30 m2, Botanica, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "30   m2",
+    "Starea apartamentului": "Reparatie cosmetica",
+    "Bloc sanitar": "1",
+    "Nivelul": "4",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "4",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Secundar",
+    "Planul": "Hrusciovka",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "31 900   EUR"
+}
+
+
+https://999.md/ro/84261579
+{
+    "Titlu": "Apartament cu 1 camera, 45 m2, Buiucani, Chisinau",
+    "Suprafata totala": "45   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "3",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "13",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "60 500   EUR"
+}
+
+
+https://999.md/ro/82856609
+{
+    "Titlu": "Apartament cu 1 camera, 49 m2, Buiucani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "49   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "8",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Cablu TV": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "73 500   EUR"
+}
+
+
+https://999.md/ro/84333067
+{
+    "Titlu": "Apartament cu 1 camera, 55 m2, Ciocana, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "55   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "10",
+    "Loc de parcat": "Deschis",
+    "Numar de nivele": "11",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Mobilat": "Prezent",
+    "Tehnica de uz casnic": "Prezent",
+    "Incalzire autonoma": "Prezent",
+    "Geamuri termopan": "Prezent",
+    "Usa blindata": "Prezent",
+    "Interfon": "Prezent",
+    "Sistem de alarma": "Prezent",
+    "Supraveghere video": "Prezent",
+    "Ascensor": "Prezent",
+    "Teren de joaca": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "79 900   EUR"
+}
+
+
+https://999.md/ro/83589109
+{
+    "Titlu": "Apartament cu 1 camera, 51 m2, Botanica, Chisinau",
+    "Suprafata totala": "51   m2",
+    "Starea apartamentului": "Euroreparatie",
+    "Bloc sanitar": "1",
+    "Nivelul": "9",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "51   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Aparat de aer conditionat": "Prezent",
+    "Incalzire prin pardoseala": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "120 000   EUR"
+}
+
+
+https://999.md/ro/83624207
+{
+    "Titlu": "Apartament cu 1 camera, 58 m2, Buiucani, Chisinau",
+    "Balcon": "1",
+    "Suprafata totala": "58   m2",
+    "Starea apartamentului": "La alb",
+    "Bloc sanitar": "1",
+    "Nivelul": "10",
+    "Numar de nivele": "11",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "58   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Incalzire autonoma": "Prezent",
+    "Cablu TV": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "72 000   EUR"
+}
+
+
+https://999.md/ro/83965109
+{
+    "Titlu": "Apartament cu 1 camera, 52 m2, Telecentru, Chisinau",
+    "Suprafata totala": "52   m2",
+    "Starea apartamentului": "La alb",
+    "Nivelul": "2",
+    "Tipul cladirii": "Caramida",
+    "Numar de nivele": "9",
+    "Numarul de camere": "Apartament cu 1 camera",
+    "Suprafata locativa": "52   m2",
+    "Autorul anuntului": "Agentie",
+    "Fond locativ": "Constructii noi",
+    "Planul": "Individuala",
+    "Incalzire autonoma": "Prezent",
+    "Categorie": "Apartamente",
+    "Pret": "41 100   EUR"
+}
+
+

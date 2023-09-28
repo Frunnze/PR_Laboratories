@@ -1,0 +1,763 @@
+https://999.md/ro/84351676
+{
+    "Titlu": "Se vinde. Nou",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84026807
+{
+    "Titlu": "Honor Band 6 Black - vsego 649 leev!",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "649   lei"
+}
+
+
+https://999.md/ro/84026930
+{
+    "Titlu": "Huawei Band 6 Black - vsego 649 leev!",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "649   lei"
+}
+
+
+https://999.md/ro/83803804
+{
+    "Titlu": "Xiaomi Redmi Smart Band 2 Ivory - vsego 499 leev!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "499   lei"
+}
+
+
+https://999.md/ro/76127267
+{
+    "Titlu": "Honor Band 5 Pink - vsego 349 lei!",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "349   lei"
+}
+
+
+https://999.md/ro/84350968
+{
+    "Titlu": "Mi band 5",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "300   lei"
+}
+
+
+https://999.md/ro/84350598
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84350578
+{
+    "Titlu": "Fit bit",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "260   lei"
+}
+
+
+https://999.md/ro/84350478
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84348852
+{
+    "Titlu": "Fitness-Tracker Garmin Vivomove Luxe, Rose Gold, Light Sand Leather Band (010-02241-22)",
+    "Descrierea produsului": "fitness tracker",
+    "Conectare fara fir": "Bluetooth;GPS;",
+    "Bratara detasabila": "da",
+    "Material carcasa": "inox",
+    "Rezista la presiune": "5atm",
+    "Standart de protectie": "WR50",
+    "Greutate cu curea": "55.5g",
+    "Culoare": "auriu",
+    "Material bratara": "piele",
+    "Culoarea curelei": "negru",
+    "Garantie": "24",
+    "Greutate": "52g",
+    "Producator": "Garmin",
+    "Tip display": "AMOLED",
+    "Rezolutie ecran, pixeli": "240x240",
+    "Display": "touchscreen cu ace indicatoare",
+    "Diametrul / diagonala ecranului": "2.41cm",
+    "Elemente functionale": "barometru;alarma;indicator de apel;primirea/trimiterea SMS;afisarea notificarilor;gestionarea muzicii;",
+    "Monitoring sanatatii": "masurarea puls;monitor de somn;pedometru;",
+    "ANT+": "da",
+    "Timp de lucru": "5zile",
+    "Categorie": "Bratari fitness",
+    "Pret": "9 499   lei"
+}
+
+
+https://999.md/ro/84345017
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84344904
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/83325499
+{
+    "Titlu": "Fitnes-braslet Xiaomi Mi Band 5 Chernyi",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "500   lei"
+}
+
+
+https://999.md/ro/82933237
+{
+    "Titlu": "Xiaomi Mi Band 8 Pro / Xiaomi Mi Band 8 / Xiaomi Mi Band 7 Pro",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84322298
+{
+    "Titlu": "Mi Smart Band 5",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "450   lei"
+}
+
+
+https://999.md/ro/84339514
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84339423
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/83382211
+{
+    "Titlu": "Xiaomi MI smart band 6 NFC",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "700   lei"
+}
+
+
+https://999.md/ro/84336772
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84336702
+{
+    "Titlu": "Fitnes braslet Hoco",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "399   lei"
+}
+
+
+https://999.md/ro/84336587
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84335177
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84335133
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/83371830
+{
+    "Titlu": "Xiaomi Mi Band 8 Pro / Xiaomi Mi Band 8 / Xiaomi Mi Band 7 Pro",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84329052
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84328670
+{
+    "Titlu": "Vand bratara fitness",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "600   lei"
+}
+
+
+https://999.md/ro/63089110
+{
+    "Titlu": "Fitnes braslet smart band M5 i  M6! Super podarok na liuboi prazdnik!",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "299   lei"
+}
+
+
+https://999.md/ro/84328145
+{
+    "Titlu": "Xiaomi smart S1 black",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "3 500   lei"
+}
+
+
+https://999.md/ro/84327953
+{
+    "Titlu": "Amazfit A2030 - 690 lei",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "690   lei"
+}
+
+
+https://999.md/ro/84327082
+{
+    "Titlu": "Vand Mi smart Band 5 sau schimb",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "300   lei"
+}
+
+
+https://999.md/ro/84326811
+{
+    "Titlu": "huawei band 7 -300 lei",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "300   lei"
+}
+
+
+https://999.md/ro/84325669
+{
+    "Titlu": "Bratara fitness Anself Monitorizare cardiaca Pedometru Negru",
+    "Producator": "Samsung",
+    "Categorie": "Bratari fitness",
+    "Pret": "735   EUR"
+}
+
+
+https://999.md/ro/84323973
+{
+    "Titlu": "Xiaomi Mi Smart Band 7 ( s ofitsial'noi garantiei ot kompanii Orange MD )",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "750   lei"
+}
+
+
+https://999.md/ro/84324856
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84324650
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/83907193
+{
+    "Titlu": "Xiaomi Mi Band 7 Pro / 1090 Lei",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "1 090   lei"
+}
+
+
+https://999.md/ro/84322750
+{
+    "Titlu": "Fitnes braslet Hoco",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "399   lei"
+}
+
+
+https://999.md/ro/80465547
+{
+    "Titlu": "Fitnes-braslet Xiaomi Mi Band 6 Chernyi Evropeiskaia versiia",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "600   lei"
+}
+
+
+https://999.md/ro/84261554
+{
+    "Titlu": "Oppo Band",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "600   lei"
+}
+
+
+https://999.md/ro/84319879
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84319800
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84318719
+{
+    "Titlu": "Fitnes braslet R8",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/82924385
+{
+    "Titlu": "Xiaomi Mi Band 8 Pro / Xiaomi Mi Band 8 / Xiaomi Mi Band 7 Pro",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84313767
+{
+    "Titlu": "Fitness-Tracker Xiaomi Smart Band 8 Champagne Gold",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "899   lei"
+}
+
+
+https://999.md/ro/84313545
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84313445
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84313157
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84313035
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/83902229
+{
+    "Titlu": "Ceas inteligent Amazfit Bip 3 Black",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "899   lei"
+}
+
+
+https://999.md/ro/80187295
+{
+    "Titlu": "Ceas inteligent pentru barbati.",
+    "Categorie": "Bratari fitness"
+}
+
+
+https://999.md/ro/80187100
+{
+    "Titlu": "Ceas inteligent pentru Femei",
+    "Categorie": "Bratari fitness"
+}
+
+
+https://999.md/ro/84311314
+{
+    "Titlu": "Xiaomi Mi Band 8 Pro / Xiaomi Mi Band 8 / Xiaomi Mi Band 7 Pro",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84311078
+{
+    "Titlu": "Fitness-Tracker Xiaomi Smart Band 8 Champagne Gold",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "899   lei"
+}
+
+
+https://999.md/ro/82759949
+{
+    "Titlu": "Mi Smart Band 6",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "600   lei"
+}
+
+
+https://999.md/ro/84311017
+{
+    "Titlu": "Fitness-Tracker Xiaomi Smart Band 8 Graphite Black",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "899   lei"
+}
+
+
+https://999.md/ro/83609073
+{
+    "Titlu": "Xiaomi Mi Band 6",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "520   lei"
+}
+
+
+https://999.md/ro/84310294
+{
+    "Titlu": "Bratara fitness Fitbit Inspire 2 Black",
+    "Producator": "Samsung",
+    "Categorie": "Bratari fitness",
+    "Pret": "1 730   EUR"
+}
+
+
+https://999.md/ro/84309647
+{
+    "Titlu": "Xiaomi Mi Band 8 Pro / Xiaomi Mi Band 8 / Xiaomi Mi Band 7 Pro",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84309439
+{
+    "Titlu": "Original'nyi remeshok dlia xiaomi mi band 7 6 5 - 50 rub. NOVYI!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "55   lei"
+}
+
+
+https://999.md/ro/84309185
+{
+    "Titlu": "Xiaomi mi band 8 / Xiaomi Smart Band 8",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "900   lei"
+}
+
+
+https://999.md/ro/84308898
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84308803
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84305334
+{
+    "Titlu": "Fitnes braslet Hoco",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "399   lei"
+}
+
+
+https://999.md/ro/84304353
+{
+    "Titlu": "Prodam mi band 5",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "350   lei"
+}
+
+
+https://999.md/ro/84303742
+{
+    "Titlu": "Chasy T800 Ultra",
+    "Producator": "Apple",
+    "Categorie": "Bratari fitness",
+    "Pret": "400   lei"
+}
+
+
+https://999.md/ro/84303340
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84303250
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84300543
+{
+    "Titlu": "Smart chasy ochen' khoroshie",
+    "Producator": "Apple",
+    "Categorie": "Bratari fitness",
+    "Pret": "400   lei"
+}
+
+
+https://999.md/ro/84299489
+{
+    "Titlu": "Huawei 4e",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "250   lei"
+}
+
+
+https://999.md/ro/84299169
+{
+    "Titlu": "Xiaomi mi band 3",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "200   lei"
+}
+
+
+https://999.md/ro/84298692
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84298585
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/81716974
+{
+    "Titlu": "Xiaomi  Mi Band 7",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "600   lei"
+}
+
+
+https://999.md/ro/84295969
+{
+    "Titlu": "Huawei Band 8-165  - 750 lei",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "750   lei"
+}
+
+
+https://999.md/ro/84295620
+{
+    "Titlu": "Bratara Inteligenta MediaTech Active Band EKG MT861Ecran Tactil TFT BT 40 rezistenta la apa monitori",
+    "Producator": "Samsung",
+    "Categorie": "Bratari fitness",
+    "Pret": "1 043   EUR"
+}
+
+
+https://999.md/ro/84294542
+{
+    "Titlu": "Xiaomi Mi Band 7 i Mi Band 7 Pro - ochen' dioshevo!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/84294353
+{
+    "Titlu": "Fitnes braslety - novye modeli po super tsene!",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "negociabil"
+}
+
+
+https://999.md/ro/83934614
+{
+    "Titlu": "Xiaomi Mi Band 8 Pro / Xiaomi Mi Band 8 / Xiaomi Mi Band 7 Pro",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84292726
+{
+    "Titlu": "Mi smart Band 4C",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "100   lei"
+}
+
+
+https://999.md/ro/84292222
+{
+    "Titlu": "Xiaomi Smart Band 7 (Nou!)",
+    "Producator": "Xiaomi",
+    "Categorie": "Bratari fitness",
+    "Pret": "999   lei"
+}
+
+
+https://999.md/ro/84292133
+{
+    "Titlu": "Vand ceas",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "500   lei"
+}
+
+
+https://999.md/ro/84292055
+{
+    "Titlu": "Smart watch plus",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "300   lei"
+}
+
+
+https://999.md/ro/84291986
+{
+    "Titlu": "Fitnes braslet Hoco",
+    "Producator": "Alt",
+    "Categorie": "Bratari fitness",
+    "Pret": "399   lei"
+}
+
+
