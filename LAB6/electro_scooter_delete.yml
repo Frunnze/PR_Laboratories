@@ -1,0 +1,21 @@
+openapi: 3.0.0
+
+description: Delete a scooter
+parameters:
+  - name: scooter_id
+    in: path
+    type: integer
+    required: true
+    description: Scooter ID
+
+  - name: X-Delete-Password
+    in: header
+    type: string
+    required: true
+    description: Password
+    
+responses:
+  200:
+    description: The scooter found.
+  404:
+    description: No electro scooter found.
