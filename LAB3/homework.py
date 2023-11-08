@@ -48,8 +48,9 @@ def extract_details(url):
         formatted_price = unidecode(price.text).strip()
         data['Pret'] = formatted_price
 
-    return json.dumps(data, indent=4)
+    return data
 
 
-url = "https://999.md/ro/84348852"
-print(extract_details(url))
+if __name__ == '__main__':
+    url = "https://999.md/ro/84348852"
+    print(extract_details(url))

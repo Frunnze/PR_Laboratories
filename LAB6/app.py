@@ -24,6 +24,8 @@ if __name__ == "__main__":
     import routes
 
     # Migrate the data to the postgresql.
+    # psql -U postgres
+    # CREATE DATABASE psql_database;
     app = migrate_data(app)
 
     app.run()
