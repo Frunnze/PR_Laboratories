@@ -26,7 +26,7 @@ def store_data():
 
         # Extract the data from the page with the function from LAB3.
         data = extract_details(url)
-
+        
         # Insert the data.
         db_lock.acquire()
         db.insert(data)
@@ -53,8 +53,8 @@ if __name__ == '__main__':
     # Create and start the threads
     num_threads = 5
     threads = []
-    for _ in range(num_threads):
-        thread = threading.Thread(target=store_data)
+    for i in range(num_threads):
+        thread = threading.Thread(target=store_data, name=f"Thread-{i+1}")
         threads.append(thread)
         thread.start()
 

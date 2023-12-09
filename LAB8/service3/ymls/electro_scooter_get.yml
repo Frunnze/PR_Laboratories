@@ -1,0 +1,15 @@
+openapi: 3.0.0
+
+description: Get a scooter
+parameters:
+  - name: scooter_id
+    in: path
+    type: integer
+    required: true
+    description: The ID of the electro scooter to retrieve
+    
+responses:
+  200:
+    description: The scooter found.
+  404:
+    description: No electro scooter found.

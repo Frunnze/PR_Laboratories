@@ -1,0 +1,25 @@
+openapi: 3.0.0
+
+description: Add a scooter.
+parameters:
+  - name: body
+    in: body
+    required: true
+    schema:
+      id: ElectroScooter
+      required:
+        - name
+        - battery_level
+      properties:
+        name:
+          type: string
+          description: The name of the scooter
+        battery_level:
+          type: number
+          description: The battery level
+
+responses:
+  201:
+    description: Electro scooter created successfully
+  400:
+    description: Invalid request data

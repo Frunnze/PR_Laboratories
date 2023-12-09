@@ -1,0 +1,32 @@
+openapi: 3.0.0
+
+description: Updating data of the scooter.
+parameters:
+  - name: scooter_id
+    in: path
+    type: integer
+    required: true
+    description: The ID to update
+  - name: body
+    in: body
+    required: true
+    schema:
+      id: UpdateElectroScooter
+      properties:
+        name:
+          type: string
+          description: The updated name
+        battery_level:
+          type: number
+          description: The updated battery level
+
+responses:
+  200:
+    description: Electro scooter updated successfully
+  404:
+    description: Electro scooter not found
+  500:
+    description: An error occurred
+
+
+
